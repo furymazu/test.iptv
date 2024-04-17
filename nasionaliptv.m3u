@@ -1,0 +1,25 @@
+
+#EXTM3U
+
+<##################################> ####### NASIONAL ####### 
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://i.ibb.co/p46Tgpn/indosiar.png" group-title="1.NASIONAL" tvg-url="https://s.id/KITKATTV",001.Indosiar #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+##https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
+##https://link.zozotv.xyz:443/rozila969/abc12345/45
+##http://xtv.ooo:8080/3212571066/abc123/350972
+##http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gDC7wVg/image.png" group-title="1.NASIONAL",002.Ok Tv https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd|referer=https://www.visionplus.id #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FKtJgnL/mnctv.png" group-title="1.NASIONAL",003.Mnctv http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|referer=https://www.visionplus.id
+##https://kusnadipepenk.github.io/campeign/mnc.m3u8 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NCZF3Vp/primevision.png" group-title="1.NASIONAL",004.Prime Vision https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd|referer=https://www.visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q6jHHXS/globaltv.png" group-title="1.NASIONAL",005.Global Tv https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|referer=https://www.visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
